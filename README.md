@@ -1,2 +1,2 @@
 
-GET.PHP 請搭配 1.php服用
+GET.PHP 請搭配 1.php服用。
